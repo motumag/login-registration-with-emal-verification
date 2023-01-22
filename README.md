@@ -1,7 +1,4 @@
 # login-registration-with-emal-verification
-
-<h1> This is Spring boot Crud operation 👋, by Motuma Gishu </h1>
-
 <h3> The main functionality are:</h3>
 
 <ul>

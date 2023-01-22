@@ -2,7 +2,7 @@
 <h3> The main functionality are:</h3>
 
 <ul>
-  <li>Register User</li>
+  <li>Register User one</li>
   <li>Employee Repository and how to insert to database</li>
   <li>How to use lombok</li>
   <li>How to customize for the method we want define by our project requirements in services</li>
